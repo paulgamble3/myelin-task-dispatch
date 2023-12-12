@@ -8,7 +8,8 @@ FIREBASE_DB = "12-11-calls"
 active_task_names = [
     "-", # Empty
     "Medical Challenge Calls",
-    "Lab Engine Calls"
+    #"Lab Engine Calls"
+    "Kickout Calls 12/12"
 ]
 
 st.title('Myelin Task Dispatcher')

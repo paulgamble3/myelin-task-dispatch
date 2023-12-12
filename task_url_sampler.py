@@ -6,8 +6,11 @@ TASK_CONFIGS = {
     "Medical Challenge Calls" : {
         "task_dir": "./task_configs/medical_challenge_calls_12_11/"
     },
-    "Lab Engine Calls" : {
-        "task_dir": "./task_configs/lab_engine_calls_12_11/"
+    # "Lab Engine Calls" : {
+    #     "task_dir": "./task_configs/lab_engine_calls_12_11/"
+    # }
+    "Kickout Calls 12/12" : {
+        "task_dir": "./task_configs/kickout_calls_12_12/"
     }
 
 }
