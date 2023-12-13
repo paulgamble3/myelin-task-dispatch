@@ -9,8 +9,11 @@ TASK_CONFIGS = {
     # "Lab Engine Calls" : {
     #     "task_dir": "./task_configs/lab_engine_calls_12_11/"
     # }
-    "Kickout Calls 12/12" : {
-        "task_dir": "./task_configs/kickout_calls_12_12/"
+    # "Kickout Calls 12/12" : {
+    #     "task_dir": "./task_configs/kickout_calls_12_12/"
+    # }
+    "RAG Mentoring Calls" : {
+        "task_dir": "./task_configs/rag_mentoring_calls_12_13/"
     }
 
 }

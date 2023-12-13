@@ -9,7 +9,8 @@ active_task_names = [
     "-", # Empty
     "Medical Challenge Calls",
     #"Lab Engine Calls"
-    "Kickout Calls 12/12"
+    #"Kickout Calls 12/12"
+    "RAG Mentoring Calls"
 ]
 
 st.title('Myelin Task Dispatcher')
