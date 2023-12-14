@@ -17,8 +17,10 @@ TASK_CONFIGS = {
     # },
     "RN Targeted Eval" : {
         "task_dir": "./task_configs/RN_targeted_eval/"
-    }
-
+    },
+    "Medication Engine Calls" : {
+        "task_dir": "./task_configs/medication_engine_calls/"
+    },
 }
 
 def sample_call_url(call_config_dir):
