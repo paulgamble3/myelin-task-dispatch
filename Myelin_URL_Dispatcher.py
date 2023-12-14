@@ -1,17 +1,20 @@
 import streamlit as st
 from firebase.firebase_utils import write_task_item
-from task_url_sampler import sample_task_url
+from task_url_sampler import sample_task_url, TASK_CONFIGS
 
 
 FIREBASE_DB = "12-11-calls"
 
-active_task_names = [
-    "-", # Empty
-    "Medical Challenge Calls",
-    #"Lab Engine Calls"
-    #"Kickout Calls 12/12"
-    "RAG Mentoring Calls"
-]
+# active_task_names = [
+#     "-", # Empty
+#     "Medical Challenge Calls",
+#     #"Lab Engine Calls"
+#     #"Kickout Calls 12/12"
+#     #"RAG Mentoring Calls",
+#     "RN Targeted Eval"
+# ]
+
+active_task_names = ["-"] + list(TASK_CONFIGS.keys())
 
 st.title('Myelin Task Dispatcher')
 

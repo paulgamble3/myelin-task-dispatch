@@ -12,8 +12,11 @@ TASK_CONFIGS = {
     # "Kickout Calls 12/12" : {
     #     "task_dir": "./task_configs/kickout_calls_12_12/"
     # }
-    "RAG Mentoring Calls" : {
-        "task_dir": "./task_configs/rag_mentoring_calls_12_13/"
+    # "RAG Mentoring Calls" : {
+    #     "task_dir": "./task_configs/rag_mentoring_calls_12_13/"
+    # },
+    "RN Targeted Eval" : {
+        "task_dir": "./task_configs/RN_targeted_eval/"
     }
 
 }
