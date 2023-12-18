@@ -3,9 +3,9 @@ import random
 import json
 
 TASK_CONFIGS = {
-    "Medical Challenge Calls" : {
-        "task_dir": "./task_configs/medical_challenge_calls_12_17/"
-    },
+    # "Medical Challenge Calls" : {
+    #     "task_dir": "./task_configs/medical_challenge_calls_12_17/"
+    # },
     # "Lab Engine Calls" : {
     #     "task_dir": "./task_configs/lab_engine_calls_12_11/"
     # }
