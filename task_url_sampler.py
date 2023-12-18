@@ -21,6 +21,9 @@ TASK_CONFIGS = {
     # "Medication Engine Calls" : {
     #     "task_dir": "./task_configs/medication_engine_calls/"
     # },
+    "ASR Test Calls": {
+        "task_dir": "./task_configs/ASR_calls_12_18/"
+    }
 }
 
 def sample_call_url(call_config_dir):
