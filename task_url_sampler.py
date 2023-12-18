@@ -4,7 +4,7 @@ import json
 
 TASK_CONFIGS = {
     "Medical Challenge Calls" : {
-        "task_dir": "./task_configs/medical_challenge_calls_12_11/"
+        "task_dir": "./task_configs/medical_challenge_calls_12_17/"
     },
     # "Lab Engine Calls" : {
     #     "task_dir": "./task_configs/lab_engine_calls_12_11/"
@@ -15,12 +15,12 @@ TASK_CONFIGS = {
     # "RAG Mentoring Calls" : {
     #     "task_dir": "./task_configs/rag_mentoring_calls_12_13/"
     # },
-    "RN Targeted Eval" : {
-        "task_dir": "./task_configs/RN_targeted_eval/"
-    },
-    "Medication Engine Calls" : {
-        "task_dir": "./task_configs/medication_engine_calls/"
-    },
+    # "RN Targeted Eval" : {
+    #     "task_dir": "./task_configs/RN_targeted_eval/"
+    # },
+    # "Medication Engine Calls" : {
+    #     "task_dir": "./task_configs/medication_engine_calls/"
+    # },
 }
 
 def sample_call_url(call_config_dir):
