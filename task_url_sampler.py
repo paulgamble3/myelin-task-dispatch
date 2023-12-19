@@ -15,9 +15,9 @@ TASK_CONFIGS = {
     # "RAG Mentoring Calls" : {
     #     "task_dir": "./task_configs/rag_mentoring_calls_12_13/"
     # },
-    # "RN Targeted Eval" : {
-    #     "task_dir": "./task_configs/RN_targeted_eval/"
-    # },
+    "RN Targeted Eval" : {
+        "task_dir": "./task_configs/RN_targeted_eval_12_19/"
+    },
     # "Medication Engine Calls" : {
     #     "task_dir": "./task_configs/medication_engine_calls/"
     # },
