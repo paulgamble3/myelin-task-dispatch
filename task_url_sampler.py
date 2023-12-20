@@ -9,21 +9,24 @@ TASK_CONFIGS = {
     # "Lab Engine Calls" : {
     #     "task_dir": "./task_configs/lab_engine_calls_12_11/"
     # }
-    "Kickout Calls 12/19" : {
-        "task_dir": "./task_configs/kickouts_12_19/"
-    },
-    # "RAG Mentoring Calls" : {
-    #     "task_dir": "./task_configs/rag_mentoring_calls_12_13/"
+    # "Kickout Calls 12/19" : {
+    #     "task_dir": "./task_configs/kickouts_12_19/"
     # },
-    "RN Targeted Eval" : {
-        "task_dir": "./task_configs/RN_targeted_eval_12_19/"
-    },
+    # # "RAG Mentoring Calls" : {
+    # #     "task_dir": "./task_configs/rag_mentoring_calls_12_13/"
+    # # },
+    # "RN Targeted Eval" : {
+    #     "task_dir": "./task_configs/RN_targeted_eval_12_19/"
+    # },
     # "Medication Engine Calls" : {
     #     "task_dir": "./task_configs/medication_engine_calls/"
     # },
     # "ASR Test Calls": {
     #     "task_dir": "./task_configs/ASR_calls_12_18/"
     # }
+    "Mentoring Calls": {
+        "tasl_dir": "./task_configs/mentoring_calls_12_20/"
+    }
 }
 
 def sample_call_url(call_config_dir):
