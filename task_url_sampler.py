@@ -25,7 +25,7 @@ TASK_CONFIGS = {
     #     "task_dir": "./task_configs/ASR_calls_12_18/"
     # }
     "Mentoring Calls": {
-        "tasl_dir": "./task_configs/mentoring_calls_12_20/"
+        "task_dir": "./task_configs/mentoring_calls_12_20/"
     }
 }
 
