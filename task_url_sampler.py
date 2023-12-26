@@ -10,7 +10,7 @@ TASK_CONFIGS = {
     #     "task_dir": "./task_configs/lab_engine_calls_12_11/"
     # }
     "Kickout Calls 12/26" : {
-        "task_dir": "./task_configs/kickouts_12_16/"
+        "task_dir": "./task_configs/kickouts_12_26/"
     },
     # # "RAG Mentoring Calls" : {
     # #     "task_dir": "./task_configs/rag_mentoring_calls_12_13/"
