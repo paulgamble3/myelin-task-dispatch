@@ -3,14 +3,14 @@ import random
 import json
 
 TASK_CONFIGS = {
-    "Medical Challenge Calls" : {
-        "task_dir": "./task_configs/medical_challenge_calls_12_22/"
+    "Medical Challenge Calls 12/26" : {
+        "task_dir": "./task_configs/medical_challenge_calls_12_26/"
     },
     # "Lab Engine Calls" : {
     #     "task_dir": "./task_configs/lab_engine_calls_12_11/"
     # }
-    "Kickout Calls 12/21" : {
-        "task_dir": "./task_configs/kickouts_12_19/"
+    "Kickout Calls 12/26" : {
+        "task_dir": "./task_configs/kickouts_12_16/"
     },
     # # "RAG Mentoring Calls" : {
     # #     "task_dir": "./task_configs/rag_mentoring_calls_12_13/"
@@ -24,8 +24,8 @@ TASK_CONFIGS = {
     # "ASR Test Calls": {
     #     "task_dir": "./task_configs/ASR_calls_12_18/"
     # }
-    "Mentoring Calls": {
-        "task_dir": "./task_configs/mentoring_calls_12_20/"
+    "Mentoring Calls 12/26": {
+        "task_dir": "./task_configs/mentoring_calls_12_26/"
     }
 }
 
