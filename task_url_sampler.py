@@ -3,16 +3,20 @@ import random
 import json
 
 TASK_CONFIGS = {
-    "Medical Challenge Calls 12/26" : {
-        "task_dir": "./task_configs/medical_challenge_calls_12_26/"
-    },
-    "Kickout Calls 12/26" : {
-        "task_dir": "./task_configs/kickouts_12_26/"
-    },
-    "Mentoring Calls 12/26": {
-        "task_dir": "./task_configs/mentoring_calls_12_26/"
+    # "Medical Challenge Calls 12/26" : {
+    #     "task_dir": "./task_configs/medical_challenge_calls_12_26/"
+    # },
+    # "Kickout Calls 12/26" : {
+    #     "task_dir": "./task_configs/kickouts_12_26/"
+    # },
+    # "Mentoring Calls 12/26": {
+    #     "task_dir": "./task_configs/mentoring_calls_12_26/"
+    # }
+    "Lab Calls": {
+        "task_dir": "./task_configs/lab_eval_1_1/"
     }
 }
+
 
 def sample_call_url(call_config_dir):
     call_configs = glob.glob(call_config_dir)

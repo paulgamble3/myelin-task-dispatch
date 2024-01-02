@@ -3,7 +3,7 @@ from firebase.firebase_utils import write_task_item
 from task_url_sampler import sample_task_url, TASK_CONFIGS
 
 
-FIREBASE_DB = "12-26-calls"
+FIREBASE_DB = "1-1-lab-calls"
 
 active_task_names = ["-"] + list(TASK_CONFIGS.keys())
 
