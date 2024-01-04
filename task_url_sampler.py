@@ -14,7 +14,11 @@ TASK_CONFIGS = {
     # }
     "Lab Calls": {
         "task_dir": "./task_configs/lab_eval_1_1/"
-    }
+    },
+    "Side Health": {
+        "task_dir": "./task_configs/side_health_mentoring_1_4/"
+    },
+
 }
 
 
