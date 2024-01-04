@@ -5,7 +5,7 @@ from task_url_sampler import sample_task_url, TASK_CONFIGS
 
 FIREBASE_DB = "1-4-calls"
 
-active_task_names = ["-"] + list(TASK_CONFIGS.keys())
+active_task_names = list(TASK_CONFIGS.keys())
 
 st.title('Myelin Task Dispatcher')
 
