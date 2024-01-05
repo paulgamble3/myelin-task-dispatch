@@ -12,12 +12,16 @@ TASK_CONFIGS = {
     # "Mentoring Calls 12/26": {
     #     "task_dir": "./task_configs/mentoring_calls_12_26/"
     # }
-    "Lab Calls": {
-        "task_dir": "./task_configs/lab_eval_1_1/"
-    },
+    # "Lab Calls": {
+    #     "task_dir": "./task_configs/lab_eval_1_1/"
+    # },
     "Side Health": {
         "task_dir": "./task_configs/side_health_mentoring_1_4/"
     },
+    "Kickout Calls": {
+        "task_dir": "./task_configs/kickout_calls_1_5/"
+    },
+    }
 
 }
 
