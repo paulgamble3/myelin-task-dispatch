@@ -23,8 +23,6 @@ TASK_CONFIGS = {
     },
     }
 
-}
-
 
 def sample_call_url(call_config_dir):
     call_configs = glob.glob(call_config_dir)
