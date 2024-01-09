@@ -21,6 +21,9 @@ TASK_CONFIGS = {
     "Kickout Calls": {
         "task_dir": "./task_configs/kickout_calls_1_8/"
     },
+    "Medication ASR Calls": {
+        "task_dir": "./task_configs/medication_asr_calls_1_9/"
+    },
     }
 
 
