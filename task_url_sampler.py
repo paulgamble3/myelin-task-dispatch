@@ -24,6 +24,9 @@ TASK_CONFIGS = {
     "Medication ASR Calls": {
         "task_dir": "./task_configs/medication_asr_calls_1_9/"
     },
+    "Evaluation Calls": {
+        "task_dir": "./task_configs/evaluation_calls_1_9/"
+    },
     }
 
 
