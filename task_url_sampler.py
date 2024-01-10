@@ -21,11 +21,11 @@ TASK_CONFIGS = {
     "Kickout Calls": {
         "task_dir": "./task_configs/kickout_calls_1_8/"
     },
-    "Medication ASR Calls": {
-        "task_dir": "./task_configs/medication_asr_calls_1_9/"
-    },
+    # "Medication ASR Calls": {
+    #     "task_dir": "./task_configs/medication_asr_calls_1_9/"
+    # },
     "Evaluation Calls": {
-        "task_dir": "./task_configs/evaluation_calls_1_9/"
+        "task_dir": "./task_configs/new_platform_evals_1_10/"
     },
     }
 
