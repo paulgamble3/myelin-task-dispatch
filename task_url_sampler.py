@@ -24,8 +24,8 @@ TASK_CONFIGS = {
     # "Medication ASR Calls": {
     #     "task_dir": "./task_configs/medication_asr_calls_1_9/"
     # },
-    "Evaluation Calls": {
-        "task_dir": "./task_configs/new_platform_evals_1_10/"
+    "Evaluation Calls - 1/11": {
+        "task_dir": "./task_configs/eval_calls_1_11/"
     },
     }
 
