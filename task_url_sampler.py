@@ -18,14 +18,17 @@ TASK_CONFIGS = {
     # "Side Health": {
     #     "task_dir": "./task_configs/side_health_mentoring_1_4/"
     # },
-    "Kickout Calls": {
-        "task_dir": "./task_configs/kickout_calls_1_8/"
-    },
-    # "Medication ASR Calls": {
-    #     "task_dir": "./task_configs/medication_asr_calls_1_9/"
+    # "Kickout Calls": {
+    #     "task_dir": "./task_configs/kickout_calls_1_8/"
     # },
-    "Evaluation Calls - 1/11": {
-        "task_dir": "./task_configs/eval_calls_1_11/"
+    # # "Medication ASR Calls": {
+    # #     "task_dir": "./task_configs/medication_asr_calls_1_9/"
+    # # },
+    # "Evaluation Calls - 1/11": {
+    #     "task_dir": "./task_configs/eval_calls_1_11/"
+    # },
+    "All Engine Mentoring" : {
+        "task_dir": "./task_configs/all_engine_mentoring_1_12/"
     },
     }
 
