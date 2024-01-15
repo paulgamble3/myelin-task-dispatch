@@ -27,8 +27,8 @@ TASK_CONFIGS = {
     # "Evaluation Calls - 1/11": {
     #     "task_dir": "./task_configs/eval_calls_1_11/"
     # },
-    "All Engine Mentoring" : {
-        "task_dir": "./task_configs/all_engine_mentoring_1_12/"
+    "All Engine Eval" : {
+        "task_dir": "./task_configs/all_engine_eval_1_14/"
     },
     }
 
