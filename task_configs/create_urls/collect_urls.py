@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-df = pd.read_csv('task_configs/create_urls/eval_links_all_engine_mentoring.csv')
+df = pd.read_csv('task_configs/create_urls/1_14_all_engine_G18.csv')
 
 urls = df['link'].tolist()
 
@@ -14,5 +14,5 @@ for u in urls:
     }
     z.append(x)
 
-with open('task_configs/create_urls/eval_urls_all_engine.json', 'w') as f:
+with open('task_configs/create_urls/1_14_all_engines.json', 'w') as f:
     json.dump(z, f, indent=2)
