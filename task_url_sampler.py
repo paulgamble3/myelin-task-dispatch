@@ -30,6 +30,10 @@ TASK_CONFIGS = {
     "All Engine Eval" : {
         "task_dir": "./task_configs/all_engine_eval_1_14/"
     },
+    "All Engine Mentoring" : {
+        "task_dir": "./task_configs/all_engine_mentoring_1_12/"
+    },
+
     }
 
 
