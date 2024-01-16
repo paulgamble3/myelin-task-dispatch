@@ -28,7 +28,7 @@ TASK_CONFIGS = {
     #     "task_dir": "./task_configs/eval_calls_1_11/"
     # },
     "ASR Eval" : {
-        "task_dir": "./task_configs/asr_eval_1_16/"
+        "task_dir": "./task_configs/asr_evals_1_16/"
     },
     "All Engine Eval" : {
         "task_dir": "./task_configs/all_engine_eval_1_14/"
