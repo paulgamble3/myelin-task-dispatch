@@ -27,13 +27,15 @@ TASK_CONFIGS = {
     # "Evaluation Calls - 1/11": {
     #     "task_dir": "./task_configs/eval_calls_1_11/"
     # },
+    "ASR Eval" : {
+        "task_dir": "./task_configs/asr_eval_1_16/"
+    },
     "All Engine Eval" : {
         "task_dir": "./task_configs/all_engine_eval_1_14/"
     },
     "All Engine Mentoring" : {
         "task_dir": "./task_configs/all_engine_mentoring_1_12/"
-    },
-
+    }
     }
 
 
