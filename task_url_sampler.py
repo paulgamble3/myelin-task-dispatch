@@ -30,11 +30,18 @@ TASK_CONFIGS = {
     # "ASR Eval" : {
     #     "task_dir": "./task_configs/asr_evals_1_16/"
     # },
-    "SP Eval 1/17" : {
-        "task_dir": "./task_configs/all_engine_eval_1_17/"
+    # "SP Eval 1/17" : {
+    #     "task_dir": "./task_configs/all_engine_eval_1_17/"
+    # },
+    # "All Engine Mentoring" : {
+    #     "task_dir": "./task_configs/all_engine_mentoring_1_12/"
+    # }
+    "1/18 Eval Calls" : {
+        "task_dir": "./task_configs/1_18_eval/"
     },
-    "All Engine Mentoring" : {
-        "task_dir": "./task_configs/all_engine_mentoring_1_12/"
+    "Kickout End-to-End" : {
+        "task_dir": "./task_configs/1_18_kickout_calls/"
+    },
     }
     }
 
