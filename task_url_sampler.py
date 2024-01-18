@@ -43,7 +43,6 @@ TASK_CONFIGS = {
         "task_dir": "./task_configs/1_18_kickout_calls/"
     },
     }
-    }
 
 
 def sample_call_url(call_config_dir):
