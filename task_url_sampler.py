@@ -36,8 +36,11 @@ TASK_CONFIGS = {
     # "All Engine Mentoring" : {
     #     "task_dir": "./task_configs/all_engine_mentoring_1_12/"
     # }
-    "1/18 Eval Calls" : {
-        "task_dir": "./task_configs/1_18_eval/"
+    # "1/18 Eval Calls" : {
+    #     "task_dir": "./task_configs/1_18_eval/"
+    # },
+    "Retrieval - Hospital Policy Questions": {
+        "task_dir": "./task_configs/1_21_rag/"
     },
     "Kickout End-to-End" : {
         "task_dir": "./task_configs/1_18_kickout_calls/"
