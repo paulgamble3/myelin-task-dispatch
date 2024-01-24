@@ -3,48 +3,15 @@ import random
 import json
 
 TASK_CONFIGS = {
-    # "Medical Challenge Calls 12/26" : {
-    #     "task_dir": "./task_configs/medical_challenge_calls_12_26/"
+    # "Retrieval - Hospital Policy Questions": {
+    #     "task_dir": "./task_configs/1_21_rag/"
     # },
-    # "Kickout Calls 12/26" : {
-    #     "task_dir": "./task_configs/kickouts_12_26/"
+    # "Kickout End-to-End" : {
+    #     "task_dir": "./task_configs/1_18_kickout_calls/"
     # },
-    # "Mentoring Calls 12/26": {
-    #     "task_dir": "./task_configs/mentoring_calls_12_26/"
-    # }
-    # "Lab Calls": {
-    #     "task_dir": "./task_configs/lab_eval_1_1/"
-    # },
-    # "Side Health": {
-    #     "task_dir": "./task_configs/side_health_mentoring_1_4/"
-    # },
-    # "Kickout Calls": {
-    #     "task_dir": "./task_configs/kickout_calls_1_8/"
-    # },
-    # # "Medication ASR Calls": {
-    # #     "task_dir": "./task_configs/medication_asr_calls_1_9/"
-    # # },
-    # "Evaluation Calls - 1/11": {
-    #     "task_dir": "./task_configs/eval_calls_1_11/"
-    # },
-    # "ASR Eval" : {
-    #     "task_dir": "./task_configs/asr_evals_1_16/"
-    # },
-    # "SP Eval 1/17" : {
-    #     "task_dir": "./task_configs/all_engine_eval_1_17/"
-    # },
-    # "All Engine Mentoring" : {
-    #     "task_dir": "./task_configs/all_engine_mentoring_1_12/"
-    # }
-    # "1/18 Eval Calls" : {
-    #     "task_dir": "./task_configs/1_18_eval/"
-    # },
-    "Retrieval - Hospital Policy Questions": {
-        "task_dir": "./task_configs/1_21_rag/"
-    },
-    "Kickout End-to-End" : {
-        "task_dir": "./task_configs/1_18_kickout_calls/"
-    },
+    "All Engine Mentoring Calls - 1/24" : {
+        "task_dir": "./task_configs/1_24_all_engine/"
+    }
     }
 
 
