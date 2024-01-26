@@ -9,9 +9,9 @@ TASK_CONFIGS = {
     # "Kickout End-to-End" : {
     #     "task_dir": "./task_configs/1_18_kickout_calls/"
     # },
-    "All Engine Mentoring Calls - 1/25" : {
+    "All Engine Mentoring Calls - 1/26" : {
         #"task_dir": "./task_configs/1_24_all_engine/"
-        "task_dir": "./task_configs/1_25_mentoring/"
+        "task_dir": "./task_configs/1_26_mentoring/"
     }
     }
 
