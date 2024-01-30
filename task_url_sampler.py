@@ -9,10 +9,14 @@ TASK_CONFIGS = {
     # "Kickout End-to-End" : {
     #     "task_dir": "./task_configs/1_18_kickout_calls/"
     # },
-    "Mentoring Rewrites - 1/27" : {
+    "Nutrition & Retrieval Data Generation - 1/30" : {
         #"task_dir": "./task_configs/1_24_all_engine/"
-        "task_dir": "./task_configs/1_27_mentoring_rewrites/"
+        "task_dir": "./task_configs/1_30_menu_retrieval/"
     }
+    # "Nutrition & Retrieval Data Generation - 1/30" : {
+    #     #"task_dir": "./task_configs/1_24_all_engine/"
+    #     "task_dir": "./task_configs/1_27_mentoring_rewrites/"
+    # }
     }
 
 
