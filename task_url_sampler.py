@@ -21,7 +21,6 @@ TASK_CONFIGS = {
         "task_dir": "./task_configs/2_1_skill_eval/"
     },
     }
-    }
 
 
 def sample_call_url(call_config_dir):
