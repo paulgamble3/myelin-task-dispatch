@@ -17,8 +17,11 @@ TASK_CONFIGS = {
     #     #"task_dir": "./task_configs/1_24_all_engine/"
     #     "task_dir": "./task_configs/1_27_mentoring_rewrites/"
     # }
-    "Skill Eval Calls - 2/1": {
-        "task_dir": "./task_configs/2_1_skill_eval/"
+    # "Skill Eval Calls - 2/1": {
+    #     "task_dir": "./task_configs/2_1_skill_eval/"
+    # },
+    "HRA and Colonoscopy Mentoring - 2/2" : {
+        "task_dir": "./task_configs/2_2_hra_colonoscopy/"
     },
     }
 
