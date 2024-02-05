@@ -24,8 +24,10 @@ TASK_CONFIGS = {
     #     "task_dir": "./task_configs/2_2_hra_colonoscopy/"
     # },
     "Kickout Calls - 2/4" : {
+        "task_dir": "./task_configs/2_4_kickout_calls/"
     },
     "Mentoring Calls - 2/4" : {
+        "task_dir": "./task_configs/2_4_mentoring/"
     },
     }
 
