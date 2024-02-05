@@ -20,8 +20,12 @@ TASK_CONFIGS = {
     # "Skill Eval Calls - 2/1": {
     #     "task_dir": "./task_configs/2_1_skill_eval/"
     # },
-    "HRA and Colonoscopy Mentoring - 2/2" : {
-        "task_dir": "./task_configs/2_2_hra_colonoscopy/"
+    # "HRA and Colonoscopy Mentoring - 2/2" : {
+    #     "task_dir": "./task_configs/2_2_hra_colonoscopy/"
+    # },
+    "Kickout Calls - 2/4" : {
+    },
+    "Mentoring Calls - 2/4" : {
     },
     }
 
