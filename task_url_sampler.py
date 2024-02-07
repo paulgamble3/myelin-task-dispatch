@@ -23,11 +23,14 @@ TASK_CONFIGS = {
     # "HRA and Colonoscopy Mentoring - 2/2" : {
     #     "task_dir": "./task_configs/2_2_hra_colonoscopy/"
     # },
-    "Kickout Calls - 2/4" : {
-        "task_dir": "./task_configs/2_4_kickout_calls/"
-    },
-    "Mentoring Calls - 2/4" : {
-        "task_dir": "./task_configs/2_4_mentoring/"
+    # "Kickout Calls - 2/4" : {
+    #     "task_dir": "./task_configs/2_4_kickout_calls/"
+    # },
+    # "Mentoring Calls - 2/4" : {
+    #     "task_dir": "./task_configs/2_4_mentoring/"
+    # },
+    "Menu Mentoring - 2/7" : {
+        "task_dir": "./task_configs/2_7_menu_mentoring/"
     },
     }
 
