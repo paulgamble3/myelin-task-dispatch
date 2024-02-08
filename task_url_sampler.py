@@ -29,8 +29,11 @@ TASK_CONFIGS = {
     # "Mentoring Calls - 2/4" : {
     #     "task_dir": "./task_configs/2_4_mentoring/"
     # },
-    "Menu Mentoring - 2/7" : {
-        "task_dir": "./task_configs/2_7_menu_mentoring/"
+    # "Menu Mentoring - 2/7" : {
+    #     "task_dir": "./task_configs/2_7_menu_mentoring/"
+    # },
+    "Kickout Calls - 2/8" : {
+        "task_dir": "./task_configs/2_8_kickout_calls/"
     },
     }
 
