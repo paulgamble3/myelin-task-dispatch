@@ -32,10 +32,13 @@ TASK_CONFIGS = {
     # "Menu Mentoring - 2/7" : {
     #     "task_dir": "./task_configs/2_7_menu_mentoring/"
     # },
-    "Kickout Calls - 2/8" : {
-        "task_dir": "./task_configs/2_8_kickout_calls/"
-    },
+    # "Kickout Calls - 2/8" : {
+    #     "task_dir": "./task_configs/2_8_kickout_calls/"
+    # },
+    "Menu Mentoring - 2/9" : {
+        "task_dir": "./task_configs/2_9_menu_mentoring/"
     }
+}
 
 
 def sample_call_url(call_config_dir):
