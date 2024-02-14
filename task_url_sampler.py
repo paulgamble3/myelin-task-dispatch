@@ -38,12 +38,12 @@ TASK_CONFIGS = {
     # "Menu Mentoring - 2/9" : {
     #     "task_dir": "./task_configs/2_9_menu_mentoring/"
     # }
-    "Side Health Mentoring - 2/12" : {
+    "Side Health Mentoring - 2/14" : {
         "task_dir": "./task_configs/2_12_side_health/"
     },
-    "Kickout Calls - 2/12" : {
-        "task_dir": "./task_configs/2_14_kickout_calls/"
-    },
+    "HRA Calls - 2/14" : {
+        "task_dir": "./task_configs/2_14_HRA/"
+    }
 }
 
 
