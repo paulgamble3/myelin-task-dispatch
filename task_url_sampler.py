@@ -38,11 +38,15 @@ TASK_CONFIGS = {
     # "Menu Mentoring - 2/9" : {
     #     "task_dir": "./task_configs/2_9_menu_mentoring/"
     # }
-    "Side Health Mentoring - 2/14" : {
-        "task_dir": "./task_configs/2_12_side_health/"
-    },
-    "HRA Calls - 2/14" : {
-        "task_dir": "./task_configs/2_14_HRA/"
+    # "Side Health Mentoring - 2/14" : {
+    #     "task_dir": "./task_configs/2_12_side_health/"
+    # },
+    # "HRA Calls - 2/14" : {
+    #     "task_dir": "./task_configs/2_14_HRA/"
+    # }
+    "Evernow Policy Mentoring - 2/15" : {
+        "task_dir": "./task_configs/2_15_evernow_rag/"
+ 
     }
 }
 
