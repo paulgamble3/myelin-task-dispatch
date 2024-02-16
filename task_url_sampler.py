@@ -44,9 +44,11 @@ TASK_CONFIGS = {
     # "HRA Calls - 2/14" : {
     #     "task_dir": "./task_configs/2_14_HRA/"
     # }
-    "Evernow Policy Mentoring - 2/15" : {
-        "task_dir": "./task_configs/2_15_evernow_rag/"
- 
+    # "Evernow Policy Mentoring - 2/15" : {
+    #     "task_dir": "./task_configs/2_15_evernow_rag/"
+    # }
+    "Menu Mentoring - 2/16" : {
+        "task_dir": "./task_configs/2_16_menu_mentoring/"
     }
 }
 
